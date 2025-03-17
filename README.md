@@ -18,6 +18,9 @@ There're probably better ways to do this but with what I can do now, this is an 
 for public use as it's probably useless to many but myself. This is my first C side-project which I've completed in 2 hours and a half
 so don't go violating me for anything I did stupid as I did program it stupidly. Hoping I find ways to improve it and make it more hooman-friendly with time 🤞
 
+What the output would look like:
+![shit's tiring lmao](https://media.discordapp.net/attachments/984736058379997244/1351324066681720935/Screen_Shot_2025-03-18_at_2.38.50_AM.png?ex=67d9f61b&is=67d8a49b&hm=143042d7640779d1bc96e4ee86c218af03cf991f13c89808c9ccd35425ecd3c9&=&format=webp&quality=lossless&width=4096&height=1010)
+
 How to run:
 
 ```cc *.c | ./a.out```
