@@ -1,4 +1,4 @@
-# Stupid-Commission-Calculator
+# Stupid Commission Calculator
 
 	███████╗ ██████╗ ██████╗ 
 	██╔════╝██╔════╝██╔════╝ 
@@ -16,7 +16,8 @@ Litorlee just a bunch of printfs with math in its parameter when needed. I was e
 I still am a dummy at code :D
 
 There're probably better ways to do this but with what I can do now, this is an easy solution and I don't intend on designing this 
-for public use as it's probably useless to many but myself. Hoping I get to improve it with time 🤞
+for public use as it's probably useless to many but myself. This is my first C side-project which I've completed in 2 hours and a half
+so don't go violating me for anything I did stupid as I did program it stupidly. Hoping I get to improve it with time 🤞
 
 How to run:
 
