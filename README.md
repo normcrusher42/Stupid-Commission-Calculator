@@ -23,3 +23,9 @@ How to run:
 ```cc *.c | ./a.out```
 
 yea just compile and run it ik its crazy bro believe me it's not arch-linux science
+
+<sub>how the int main be looking like</sub>
+![the int main](https://imgur.com/tDpJ7T7)
+
+<sub>vs how the function be looking like</sub>
+![the function](https://imgur.com/q89OXzL)
