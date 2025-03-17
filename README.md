@@ -17,7 +17,7 @@ I still am a dummy at code :D
 
 There're probably better ways to do this but with what I can do now, this is an easy solution and I don't intend on designing this 
 for public use as it's probably useless to many but myself. This is my first C side-project which I've completed in 2 hours and a half
-so don't go violating me for anything I did stupid as I did program it stupidly. Hoping I get to improve it with time 🤞
+so don't go violating me for anything I did stupid as I did program it stupidly. Hoping I find ways to improve it and make it more hooman-friendly with time 🤞
 
 How to run:
 
