@@ -24,8 +24,8 @@ How to run:
 
 yea just compile and run it ik its crazy bro believe me it's not arch-linux science
 
-<sub>how the int main be looking like</sub>
+<sup>how the int main be looking like</sup>
 ![the int main](https://media.discordapp.net/attachments/984736058379997244/1351322995838418984/Screen_Shot_2025-03-18_at_2.09.55_AM.png?ex=67d9f51c&is=67d8a39c&hm=bf7f12efd4252c7112933faf72f996473608e797fdb07158764536453fb50284&=&format=webp&quality=lossless&width=1208&height=620)
 
-<sub>vs how the function be looking like</sub>
+<sup>vs how the function be looking like</sup>
 ![the function](https://media.discordapp.net/attachments/984736058379997244/1351322996152729600/Screen_Shot_2025-03-18_at_2.29.55_AM.png?ex=67d9f51c&is=67d8a39c&hm=3b141839ff9fc62f0c63dc8b0f6c41f0a623b77f43f8e2b22f0e43d7f2b811f2&=&format=webp&quality=lossless&width=422&height=2148)
