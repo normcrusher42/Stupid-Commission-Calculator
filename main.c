@@ -20,14 +20,13 @@ nor Variadic Functions as the whole point is to NOT rewrite the numbers again bu
 There're probably better ways to do this but with what I can do now, this is an easy solution and I don't intend on designing this 
 for public use as it's probably useless to many but myself (or anyone alike).
 
-edit : NVM my function doesn't handle float pointers so screw that
+edit : NVM my function doesn't handle float pointers so screw that.
+
 𝕋𝕙𝕖 𝕡𝕝𝕒𝕟:
 void function with void parameter cause we returning nothin, 
 */
 
-
-
 int	main(void)
 {
-
+	stupid_calculator();
 }
