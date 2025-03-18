@@ -1,11 +1,10 @@
 #include <stdio.h>
-#include <unistd.h>
 
 void	stupid_calculator(void)
 {
 	// number of clients I'd finished working with (& their usernames)
 	int		lsclients = 7;
-	// number of times I payed the withdrawel fee
+	// number of times I paid the withdrawal fee
 	int		withdraw = 2;
 	// Celery
 	int		comm1 = 15 + 7; // tipped me $7 ^-^
